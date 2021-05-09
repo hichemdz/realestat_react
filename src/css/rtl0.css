@@ -1,0 +1,8 @@
+*,body,html{
+  direction: rtl;
+}
+
+label,p{
+  text-align: right;
+  float: right;
+}

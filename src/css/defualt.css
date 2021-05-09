@@ -1,0 +1,9 @@
+
+*,body,html{
+  direction: initial  ;
+}
+
+label,p{
+  text-align: left;
+  float: left;
+}
